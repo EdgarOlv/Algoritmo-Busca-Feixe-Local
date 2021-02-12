@@ -2,8 +2,7 @@
 
 Algoritmo do funcionamento para a Busca em Feixe Local 
 
+<br> 
+
 Operation algorithm for Local Beam Search
 
-# Instruções
-
-Em Construção...
