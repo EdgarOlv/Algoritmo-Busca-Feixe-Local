@@ -26,7 +26,7 @@ int main()
 			
 		while(var!=1){
 			
-			cout << "\nIteracoes: " << n;
+			cout << "\nN Iteracoes: " << n;
 			
 			cout << "\nX:   ";
 			for(int i=0; i<cont; i++){
@@ -37,7 +37,7 @@ int main()
 			
 			cout << "\nf(x):";	
 			
-			for(int i=0; i<cont; i++){         // aplica função f(x)
+			for(int i=0; i<cont; i++){         // aplica funÃ§Ã£o f(x)
 				matrizB[i] = funcao(matriz[i]);
 				
 				matrizB[i] = floorf(matrizB[i] * 1000) / 1000; 
